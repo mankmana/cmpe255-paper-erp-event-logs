@@ -13,3 +13,5 @@ The paper’s original SAP customer transactions are proprietary, so the accompa
 [Paper](https://arxiv.org/pdf/2610.09903)
 
 [Google Colab notebook](https://colab.research.google.com/drive/1N1w2FmDunQLWxrwUBE-AvjTq7Pg7HW5x?usp=sharing)
+
+[YouTube video](https://youtu.be/Wa5t_VPQUUk)
